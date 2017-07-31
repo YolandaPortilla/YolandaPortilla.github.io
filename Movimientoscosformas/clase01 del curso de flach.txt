@@ -1,0 +1,12 @@
+chip+ f5 para eliminar fotogramas
+ctrl+ enter para ejecutar
+f7 inserta fograma en blanco
+f5 incrementa el tiempo
+f6 inserta un fotograma clave con contenido
+f8 comvertir el objeto en simbolo
+
+interpolacion clasica permite trabajar con la programacio
+interpolacion de forma cuando el objeto va cambian por ejemplo
+el lunes se vuelve martes etc
+
+interpolacion de movimiento trabja con graficos
